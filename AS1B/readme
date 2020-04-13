@@ -1,0 +1,15 @@
+/***********************************************
+ Readme file for SEEsh shell
+ CSC360 Assignment1 Part2
+
+ Name:Tong Zhang
+ StuID: V00926513
+ Date: 01/31/2020
+ Reference:"Tutorial -Write a Shell in C"
+ 		by Stephen Brennan
+	   "CSC360 Coursespace Forum"
+	   "CSC360 Lab02 slides" 
+ Milestones:Implemented all 6 built-in commands;
+            Tested all implemented features;
+ Possible Bug: in Singals handerling	    
+************************************************/
